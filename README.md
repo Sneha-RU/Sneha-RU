@@ -19,7 +19,7 @@
 
 <h2 align="center">✨ About Me ✨</h2>
 
-I'm a first-year CS student at NIET who'd rather ship a small project I can defend in an interview than a big one I can't. My focus lately has been computer vision and NLP — fine-tuning models, measuring what actually improved, and being honest about what didn't.
+I'm a third-year CS student. My focus lately has been computer vision and NLP, fine-tuning models, measuring what actually improved, and being honest about what didn't.
 
 ```python
 class Sneha:
@@ -27,9 +27,6 @@ class Sneha:
         self.education = "B.Tech CSE @ NIET, Class of 2028 (CGPA: 8.54/10.0)"
         self.currently_building = "ResumeForge AI"
         self.currently_learning = ["Advanced DSA", "Distributed Computing"]
-        self.past_experience = [
-            "Google Student Ambassador",
-            "Content Research Intern @ Speedo Express"
         ]
         self.philosophy = "If I can't defend the metric, it doesn't go on the resume."
 ```
@@ -119,16 +116,6 @@ A custom thread pool with 4 worker threads consuming tasks from a `LinkedBlockin
 🤍 ⋆ 🌸 ⋆ 🤍
 
 </div>
-
-<h2 align="center">🏆 Highlights 🏆</h2>
-
-- 🎤 **Google Student Ambassador** at NIET — organized 3 technical workshops/hackathons, connecting 150+ students with Google's developer tools and open-source community
-- 🥇 **Build with Delhi 2.0** — Top 10 of 1,400+ teams for the Safety Equipment Detection System
-- ⏱️ **Zero to One Hackathon (24hr)** — led a multidisciplinary team end-to-end
-- 🧑‍⚖️ Hackathon judge & mentor, guiding participants on debugging and technical presentation
-- 💻 **100+ LeetCode problems solved** (40+ Easy, 50+ Medium, 10+ Hard)
-
-<br/>
 
 <div align="center">
 
