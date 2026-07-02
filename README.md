@@ -11,7 +11,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=20&pause=1500&color=7A4B57&center=true&vCenter=true&width=650&lines=B.Tech+CSE+Student+%40+NIET+%7C+Class+of+2028;83.5%25+mAP%40YOLOv8+PPE+Detection;Building+ResumeForge+AI;100%2B+LeetCode+%7C+Grinding+DSA" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=20&pause=1500&color=7A4B57&center=true&vCenter=true&width=650&lines=B.Tech+CSE+Student+%40+NIET+%7C+Class+of+2028;83.5%25+mAP%40YOLOv8+PPE+Detection;Building+ResumeForge+AI" alt="Typing SVG" />
 
 </div>
 
@@ -28,27 +28,19 @@ class Sneha:
         self.currently_building = "ResumeForge AI"
         self.currently_learning = ["Advanced DSA", "Distributed Computing"]
 ```
+
 ---
 
 <h2 align="center">Tech Stack</h2>
 
 <div align="center">
 
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,fastapi,django,react,nodejs,opencv,sklearn,git,github,mysql,docker,linux&perline=8" />
 
 <br/>
 
-**Frameworks & Libraries**
-<br/>
-<img src="https://skillicons.dev/icons?i=fastapi,django,react,nodejs,opencv,numpy,pandas,sklearn" />
-
-<br/>
-
-**Tools & Databases**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,mysql,docker,linux" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
 
 </div>
 
